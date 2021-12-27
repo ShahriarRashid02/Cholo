@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256177950814",
+    "project_id": "cholov2",
+    "storage_bucket": "cholov2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256177950814:android:6c4e16492c4d51da8824cf",
+        "android_client_info": {
+          "package_name": "com.example.cholov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256177950814-mmr61rj1gaic2fed678l47h4l6nfdh0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbL-Gt4vLeKYA2ZmTAwNqECH66-0YeZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256177950814-mmr61rj1gaic2fed678l47h4l6nfdh0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
